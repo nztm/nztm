@@ -9,3 +9,6 @@
 ### Yobikake  
 [公式サイト](https://yobikake.com/)  
 [レポジトリ](https://github.com/nztm/Yobikake)　　
+
+### Platas  
+[レポジトリ](https://github.com/nztm/Platas)
